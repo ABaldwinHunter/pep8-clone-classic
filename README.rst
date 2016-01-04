@@ -6,7 +6,6 @@ conventions in `PEP 8`_.
 
 .. _PEP 8: http://www.python.org/dev/peps/pep-0008/
 
-
 Features
 --------
 
